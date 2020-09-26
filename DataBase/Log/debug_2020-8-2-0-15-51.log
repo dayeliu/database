@@ -1,0 +1,74 @@
+[2020-08-02 00:15:51] >>>>>>>>>> UpdateDB
+[2020-08-02 00:15:51] Date:2020-8-2
+[2020-08-02 00:15:51] >>>>>>>>>> GetStocksList
+[2020-08-02 00:15:51] <<<<<<<<<< GetStocksList Done
+[2020-08-02 00:15:51]  ===> [0] 2442
+[2020-08-02 00:15:52] >>>>>>>>>> InitBonus
+[2020-08-02 00:15:52] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:15:52] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:15:52] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:15:52] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:15:53] [2442] Original Daily info has been updated 
+[2020-08-02 00:15:53] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:15:53] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:15:53] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:15:53] [2442] Legal entity info has updated 
+[2020-08-02 00:15:53]  ===> [1] 2489
+[2020-08-02 00:15:54] >>>>>>>>>> InitBonus
+[2020-08-02 00:15:54] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:15:54] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:15:54] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:15:54] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:15:55] [2489] Original Daily info has been updated 
+[2020-08-02 00:15:55] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:15:55] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:15:55] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:15:55] [2489] Legal entity info has updated 
+[2020-08-02 00:15:55]  ===> [2] 3049
+[2020-08-02 00:15:56] >>>>>>>>>> InitBonus
+[2020-08-02 00:15:56] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:15:56] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:15:56] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:15:56] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:15:56] [3049] Original Daily info has been updated 
+[2020-08-02 00:15:56] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:15:57] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:15:57] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:15:57] [3049] Legal entity info has updated 
+[2020-08-02 00:15:57]  ===> [3] 6456
+[2020-08-02 00:15:58] >>>>>>>>>> InitBonus
+[2020-08-02 00:15:58] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:15:58] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:15:58] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:15:58] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:15:58] [6456] Original Daily info has been updated 
+[2020-08-02 00:15:58] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:15:59] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:15:59] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:15:59] [6456] Legal entity info has updated 
+[2020-08-02 00:15:59]  ===> [4] 3673
+[2020-08-02 00:16:00] >>>>>>>>>> InitBonus
+[2020-08-02 00:16:00] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:16:00] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:16:00] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:16:00] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:16:00] [3673] Original Daily info has been updated 
+[2020-08-02 00:16:00] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:16:01] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:16:01] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:16:01] [3673] Legal entity info has updated 
+[2020-08-02 00:16:01]  ===> [5] 6283
+[2020-08-02 00:16:02] >>>>>>>>>> InitBonus
+[2020-08-02 00:16:02] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:16:02] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:16:02] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:16:02] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:16:02] [6283] Original Daily info has been updated 
+[2020-08-02 00:16:02] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:16:03] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:16:03] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:16:03] [6283] Legal entity info has updated 
+[2020-08-02 00:16:03]  ===> [6] 5220
+[2020-08-02 00:16:04] >>>>>>>>>> InitBonus
+[2020-08-02 00:16:04] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:16:04] >>>>>>>>>> InitRevenueInfo

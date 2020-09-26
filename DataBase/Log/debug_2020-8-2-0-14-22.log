@@ -1,0 +1,21 @@
+[2020-08-02 00:14:22] >>>>>>>>>> UpdateDB
+[2020-08-02 00:14:22] Date:2020-8-2
+[2020-08-02 00:14:22] >>>>>>>>>> GetStocksList
+[2020-08-02 00:14:22] <<<<<<<<<< GetStocksList Done
+[2020-08-02 00:14:22]  ===> [0] 2442
+[2020-08-02 00:14:22] >>>>>>>>>> InitBonus
+[2020-08-02 00:14:23] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:14:23] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:14:23] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:14:23] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-08-02 00:14:23] [2442] Original Daily info has been updated 
+[2020-08-02 00:14:23] <<<<<<<<<< UpdateTechLine
+[2020-08-02 00:14:23] <<<<<<<<<< UpdateTechLine Done
+[2020-08-02 00:14:23] >>>>>>>>>> UpdateLegalEntity
+[2020-08-02 00:14:24] [2442] Legal entity info has updated 
+[2020-08-02 00:14:24]  ===> [1] 2489
+[2020-08-02 00:14:25] >>>>>>>>>> InitBonus
+[2020-08-02 00:14:25] <<<<<<<<<< InitBonus Done
+[2020-08-02 00:14:25] >>>>>>>>>> InitRevenueInfo
+[2020-08-02 00:14:25] >>>>>>>>>> InitRevenueInfo Done
+[2020-08-02 00:14:25] >>>>>>>>>> UpdateDailyStockInfo_Original
