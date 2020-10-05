@@ -1,0 +1,181 @@
+[2020-10-05 19:21:25] >>>>>>>>>> UpdateDB
+[2020-10-05 19:21:25] Date:2020-10-5
+[2020-10-05 19:21:25] >>>>>>>>>> GetStocksList
+[2020-10-05 19:21:25] <<<<<<<<<< GetStocksList Done
+[2020-10-05 19:21:25]  ===> [0] 2442
+[2020-10-05 19:21:26] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:27] [2442] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:27] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:27] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:27] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:27] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:27] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:27] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:27] [2442] Legal entity info added 
+[2020-10-05 19:21:27] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:27]  ===> [1] 2489
+[2020-10-05 19:21:27] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:28] [2489] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:28] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:28] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:28] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:28] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:28] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:28] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:28] [2489] Legal entity info added 
+[2020-10-05 19:21:28] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:28]  ===> [2] 3049
+[2020-10-05 19:21:29] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:29] [3049] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:29] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:29] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:29] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:29] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:29] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:29] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:29] [3049] Legal entity info added 
+[2020-10-05 19:21:29] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:29]  ===> [3] 6456
+[2020-10-05 19:21:30] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:30] [6456] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:30] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:30] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:30] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:30] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:30] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:30] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:30] [6456] Legal entity info added 
+[2020-10-05 19:21:30] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:30]  ===> [4] 3673
+[2020-10-05 19:21:31] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:31] [3673] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:31] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:31] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:31] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:31] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:31] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:31] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:32] [3673] Legal entity info added 
+[2020-10-05 19:21:32] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:32]  ===> [5] 6283
+[2020-10-05 19:21:32] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:33] [6283] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:33] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:33] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:33] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:33] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:33] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:33] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:33] [6283] Legal entity info added 
+[2020-10-05 19:21:33] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:33]  ===> [6] 5220
+[2020-10-05 19:21:34] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:34] [5220] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:34] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:34] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:34] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:34] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:34] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:34] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:34] [5220] Legal entity info added 
+[2020-10-05 19:21:34] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:34]  ===> [7] 2474
+[2020-10-05 19:21:35] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:35] [2474] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:35] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:35] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:35] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:35] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:35] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:35] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:35] [2474] Legal entity info added 
+[2020-10-05 19:21:35] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:35]  ===> [8] 2354
+[2020-10-05 19:21:36] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:36] [2354] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:36] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:36] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:36] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:36] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:36] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:36] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:37] [2354] Legal entity info added 
+[2020-10-05 19:21:37] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:37]  ===> [9] 1569
+[2020-10-05 19:21:37] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:38] [1569] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:38] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:38] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:38] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:38] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:38] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:38] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:38] [1569] Legal entity info added 
+[2020-10-05 19:21:38] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:38]  ===> [10] 8210
+[2020-10-05 19:21:39] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:39] [8210] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:39] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:39] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:39] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:39] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:39] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:39] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:39] [8210] Legal entity info added 
+[2020-10-05 19:21:39] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:39]  ===> [11] 3013
+[2020-10-05 19:21:40] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:40] [3013] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:40] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:40] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:40] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:40] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:40] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:40] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:40] [3013] Legal entity info added 
+[2020-10-05 19:21:40] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:40]  ===> [12] 5264
+[2020-10-05 19:21:41] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:41] [5264] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:41] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:41] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:41] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:41] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:41] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:41] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:42] [5264] Legal entity info added 
+[2020-10-05 19:21:42] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:42]  ===> [13] 5426
+[2020-10-05 19:21:43] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:43] [5426] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:43] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:43] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:43] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:43] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:43] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:43] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:43] [5426] Legal entity info added 
+[2020-10-05 19:21:43] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:43]  ===> [14] 3540
+[2020-10-05 19:21:44] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:44] [3540] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:44] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:44] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:44] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:44] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:44] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:44] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:44] [3540] Legal entity info added 
+[2020-10-05 19:21:44] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:44]  ===> [15] 3693
+[2020-10-05 19:21:45] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2020-10-05 19:21:45] [3693] 109/10/05 Original Daily info added 
+[2020-10-05 19:21:45] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2020-10-05 19:21:45] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2020-10-05 19:21:45] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2020-10-05 19:21:45] <<<<<<<<<< UpdateTechLine
+[2020-10-05 19:21:45] <<<<<<<<<< UpdateTechLine Done
+[2020-10-05 19:21:45] >>>>>>>>>> UpdateLegalEntity
+[2020-10-05 19:21:46] [3693] Legal entity info added 
+[2020-10-05 19:21:46] >>>>>>>>>> UpdateLegalEntity Done
+[2020-10-05 19:21:46]  ===> [16] 6235
