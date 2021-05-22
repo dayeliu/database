@@ -1,0 +1,17 @@
+[2021-05-20 19:45:37] >>>>>>>>>> UpdateDB
+[2021-05-20 19:45:37] Date:2021-5-20
+[2021-05-20 19:45:37] >>>>>>>>>> GetStocksList
+[2021-05-20 19:45:37] <<<<<<<<<< GetStocksList Done
+[2021-05-20 19:45:37]  ===> [0] 2442
+[2021-05-20 19:45:38] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-20 19:45:39] [2442] 110/05/20 Original Daily info added 
+[2021-05-20 19:45:39] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-20 19:45:39] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-20 19:45:39] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-20 19:45:39] <<<<<<<<<< UpdateTechLine
+[2021-05-20 19:45:39] <<<<<<<<<< UpdateTechLine Done
+[2021-05-20 19:45:39] >>>>>>>>>> UpdateLegalEntity
+[2021-05-20 19:45:39] [2442] Legal entity info added 
+[2021-05-20 19:45:39] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-20 19:45:39]  ===> [1] 2489
+[2021-05-20 19:45:40] >>>>>>>>>> UpdateDailyStockInfo_Original
