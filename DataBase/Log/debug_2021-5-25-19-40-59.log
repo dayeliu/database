@@ -1,0 +1,148 @@
+[2021-05-25 19:40:59] >>>>>>>>>> UpdateDB
+[2021-05-25 19:40:59] Date:2021-5-25
+[2021-05-25 19:40:59] >>>>>>>>>> GetStocksList
+[2021-05-25 19:40:59] <<<<<<<<<< GetStocksList Done
+[2021-05-25 19:40:59]  ===> [0] 2442
+[2021-05-25 19:40:59]  ===> [1] 2489
+[2021-05-25 19:40:59]  ===> [2] 3049
+[2021-05-25 19:40:59]  ===> [3] 6456
+[2021-05-25 19:40:59]  ===> [4] 3673
+[2021-05-25 19:40:59]  ===> [5] 6283
+[2021-05-25 19:40:59]  ===> [6] 5220
+[2021-05-25 19:40:59]  ===> [7] 2474
+[2021-05-25 19:40:59]  ===> [8] 2354
+[2021-05-25 19:40:59]  ===> [9] 1569
+[2021-05-25 19:40:59]  ===> [10] 8210
+[2021-05-25 19:40:59]  ===> [11] 3013
+[2021-05-25 19:40:59]  ===> [12] 5264
+[2021-05-25 19:40:59]  ===> [13] 5426
+[2021-05-25 19:40:59]  ===> [14] 3540
+[2021-05-25 19:40:59]  ===> [15] 3693
+[2021-05-25 19:40:59]  ===> [16] 6235
+[2021-05-25 19:40:59]  ===> [17] 4912
+[2021-05-25 19:40:59]  ===> [18] 3607
+[2021-05-25 19:40:59]  ===> [19] 2415
+[2021-05-25 19:40:59]  ===> [20] 6668
+[2021-05-25 19:40:59]  ===> [21] 4942
+[2021-05-25 19:40:59]  ===> [22] 3413
+[2021-05-25 19:40:59]  ===> [23] 8064
+[2021-05-25 19:40:59]  ===> [24] 3680
+[2021-05-25 19:40:59]  ===> [25] 2464
+[2021-05-25 19:40:59]  ===> [26] 2360
+[2021-05-25 19:40:59]  ===> [27] 2467
+[2021-05-25 19:40:59]  ===> [28] 6196
+[2021-05-25 19:40:59]  ===> [29] 6532
+[2021-05-25 19:40:59]  ===> [30] 3583
+[2021-05-25 19:40:59]  ===> [31] 6613
+[2021-05-25 19:40:59]  ===> [32] 6187
+[2021-05-25 19:40:59]  ===> [33] 6192
+[2021-05-25 19:40:59]  ===> [34] 3563
+[2021-05-25 19:40:59]  ===> [35] 8091
+[2021-05-25 19:40:59]  ===> [36] 3018
+[2021-05-25 19:40:59]  ===> [37] 6654
+[2021-05-25 19:40:59]  ===> [38] 5536
+[2021-05-25 19:40:59]  ===> [39] 2493
+[2021-05-25 19:40:59]  ===> [40] 2404
+[2021-05-25 19:40:59]  ===> [41] 8383
+[2021-05-25 19:40:59]  ===> [42] 3402
+[2021-05-25 19:40:59]  ===> [43] 6139
+[2021-05-25 19:40:59]  ===> [44] 6125
+[2021-05-25 19:41:00] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:00] [6125] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:00] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:00] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:00] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:00] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:00] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:00] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:00] [6125] Legal entity info added 
+[2021-05-25 19:41:00] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:00]  ===> [45] 3030
+[2021-05-25 19:41:01] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:02] [3030] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:02] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:02] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:02] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:02] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:02] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:02] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:02] [3030] Legal entity info added 
+[2021-05-25 19:41:02] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:02]  ===> [46] 3580
+[2021-05-25 19:41:03] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:03] [3580] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:03] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:03] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:03] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:03] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:03] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:03] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:03] [3580] Legal entity info added 
+[2021-05-25 19:41:03] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:03]  ===> [47] 6234
+[2021-05-25 19:41:04] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:04] [6234] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:04] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:04] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:04] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:04] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:05] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:05] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:05] [6234] Legal entity info added 
+[2021-05-25 19:41:05] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:05]  ===> [48] 6215
+[2021-05-25 19:41:06] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:06] [6215] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:06] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:06] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:06] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:06] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:06] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:06] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:06] [6215] Legal entity info added 
+[2021-05-25 19:41:06] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:06]  ===> [49] 5443
+[2021-05-25 19:41:07] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:07] [5443] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:07] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:07] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:07] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:07] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:07] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:07] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:07] [5443] Legal entity info added 
+[2021-05-25 19:41:07] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:07]  ===> [50] 6425
+[2021-05-25 19:41:09] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:09] [6425] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:09] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:09] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:09] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:09] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:09] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:09] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:09] [6425] Legal entity info added 
+[2021-05-25 19:41:09] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:09]  ===> [51] 2423
+[2021-05-25 19:41:10] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:10] [2423] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:10] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:10] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:10] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:10] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:10] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:10] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:11] [2423] Legal entity info added 
+[2021-05-25 19:41:11] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:11]  ===> [52] 6438
+[2021-05-25 19:41:11] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-05-25 19:41:12] [6438] 110/05/25 Original Daily info added 
+[2021-05-25 19:41:12] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-05-25 19:41:12] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-05-25 19:41:12] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-05-25 19:41:12] <<<<<<<<<< UpdateTechLine
+[2021-05-25 19:41:12] <<<<<<<<<< UpdateTechLine Done
+[2021-05-25 19:41:12] >>>>>>>>>> UpdateLegalEntity
+[2021-05-25 19:41:12] [6438] Legal entity info added 
+[2021-05-25 19:41:12] >>>>>>>>>> UpdateLegalEntity Done
+[2021-05-25 19:41:12]  ===> [53] 3455
