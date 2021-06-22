@@ -1,0 +1,24 @@
+[2021-06-22 19:34:02] >>>>>>>>>> UpdateDB
+[2021-06-22 19:34:02] Date:2021-6-22
+[2021-06-22 19:34:02] >>>>>>>>>> GetStocksList
+[2021-06-22 19:34:02] <<<<<<<<<< GetStocksList Done
+[2021-06-22 19:34:02]  ===> [0] 2442
+[2021-06-22 19:34:04] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-06-22 19:34:04] [2442] 110/06/22 Original Daily info added 
+[2021-06-22 19:34:04] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-06-22 19:34:04] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-06-22 19:34:04] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-06-22 19:34:04] <<<<<<<<<< UpdateTechLine
+[2021-06-22 19:34:04] <<<<<<<<<< UpdateTechLine Done
+[2021-06-22 19:34:04] >>>>>>>>>> UpdateLegalEntity
+[2021-06-22 19:34:04] [2442] Legal entity info added 
+[2021-06-22 19:34:04] >>>>>>>>>> UpdateLegalEntity Done
+[2021-06-22 19:34:04]  ===> [1] 2489
+[2021-06-22 19:34:05] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-06-22 19:34:05] [2489] 110/06/22 Original Daily info added 
+[2021-06-22 19:34:06] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-06-22 19:34:06] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-06-22 19:34:06] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-06-22 19:34:06] <<<<<<<<<< UpdateTechLine
+[2021-06-22 19:34:06] <<<<<<<<<< UpdateTechLine Done
+[2021-06-22 19:34:06] >>>>>>>>>> UpdateLegalEntity
