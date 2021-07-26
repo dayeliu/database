@@ -1,0 +1,139 @@
+[2021-07-26 19:25:51] >>>>>>>>>> UpdateDB
+[2021-07-26 19:25:51] Date:2021-7-26
+[2021-07-26 19:25:51] >>>>>>>>>> GetStocksList
+[2021-07-26 19:25:51] <<<<<<<<<< GetStocksList Done
+[2021-07-26 19:25:51]  ===> [0] 2442
+[2021-07-26 19:25:53] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:25:53] [2442] 110/07/26 Original Daily info added 
+[2021-07-26 19:25:53] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:25:53] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:25:53] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:25:53] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:25:53] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:25:53] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:25:53] [2442] Legal entity info added 
+[2021-07-26 19:25:53] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:25:53]  ===> [1] 2489
+[2021-07-26 19:25:54] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:25:55] [2489] 110/07/26 Original Daily info added 
+[2021-07-26 19:25:55] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:25:55] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:25:55] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:25:55] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:25:55] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:25:55] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:25:55] [2489] Legal entity info added 
+[2021-07-26 19:25:55] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:25:55]  ===> [2] 3049
+[2021-07-26 19:25:56] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:25:56] [3049] 110/07/26 Original Daily info added 
+[2021-07-26 19:25:56] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:25:56] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:25:56] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:25:56] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:25:56] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:25:56] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:25:56] [3049] Legal entity info added 
+[2021-07-26 19:25:56] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:25:56]  ===> [3] 6456
+[2021-07-26 19:25:58] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:25:58] [6456] 110/07/26 Original Daily info added 
+[2021-07-26 19:25:58] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:25:58] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:25:58] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:25:58] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:25:58] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:25:58] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:25:58] [6456] Legal entity info added 
+[2021-07-26 19:25:58] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:25:58]  ===> [4] 3673
+[2021-07-26 19:25:59] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:00] [3673] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:00] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:00] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:00] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:00] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:00] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:00] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:00] [3673] Legal entity info added 
+[2021-07-26 19:26:00] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:00]  ===> [5] 6283
+[2021-07-26 19:26:01] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:01] [6283] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:01] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:01] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:01] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:01] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:01] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:01] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:02] [6283] Legal entity info added 
+[2021-07-26 19:26:02] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:02]  ===> [6] 5220
+[2021-07-26 19:26:03] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:03] [5220] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:03] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:03] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:03] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:03] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:03] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:03] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:03] [5220] Legal entity info added 
+[2021-07-26 19:26:03] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:03]  ===> [7] 2474
+[2021-07-26 19:26:05] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:05] [2474] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:05] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:05] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:05] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:05] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:05] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:05] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:05] [2474] Legal entity info added 
+[2021-07-26 19:26:05] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:05]  ===> [8] 2354
+[2021-07-26 19:26:06] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:06] [2354] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:06] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:06] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:06] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:06] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:06] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:06] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:06] [2354] Legal entity info added 
+[2021-07-26 19:26:06] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:06]  ===> [9] 1569
+[2021-07-26 19:26:09] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:09] [1569] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:09] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:09] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:09] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:09] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:09] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:09] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:09] [1569] Legal entity info added 
+[2021-07-26 19:26:09] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:09]  ===> [10] 8210
+[2021-07-26 19:26:10] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:10] [8210] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:10] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:10] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:10] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:10] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:10] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:10] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:11] [8210] Legal entity info added 
+[2021-07-26 19:26:11] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:11]  ===> [11] 3013
+[2021-07-26 19:26:13] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-07-26 19:26:13] [3013] 110/07/26 Original Daily info added 
+[2021-07-26 19:26:13] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-07-26 19:26:13] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-07-26 19:26:13] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-07-26 19:26:13] <<<<<<<<<< UpdateTechLine
+[2021-07-26 19:26:13] <<<<<<<<<< UpdateTechLine Done
+[2021-07-26 19:26:13] >>>>>>>>>> UpdateLegalEntity
+[2021-07-26 19:26:13] [3013] Legal entity info added 
+[2021-07-26 19:26:13] >>>>>>>>>> UpdateLegalEntity Done
+[2021-07-26 19:26:13]  ===> [12] 5264
+[2021-07-26 19:26:15] Error : [5264] Stock not exist
+[2021-07-26 19:26:15]  ===> [13] 5426
