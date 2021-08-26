@@ -1,0 +1,12 @@
+[2021-08-26 19:01:12] >>>>>>>>>> UpdateDB
+[2021-08-26 19:01:12] Date:2021-8-26
+[2021-08-26 19:01:12] >>>>>>>>>> GetStocksList
+[2021-08-26 19:01:12] <<<<<<<<<< GetStocksList Done
+[2021-08-26 19:01:12]  ===> [0] 2442
+[2021-08-26 19:01:12] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-08-26 19:01:13] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-08-26 19:01:13] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-08-26 19:01:13] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-08-26 19:01:13] <<<<<<<<<< UpdateTechLine
+[2021-08-26 19:01:13] <<<<<<<<<< UpdateTechLine Done
+[2021-08-26 19:01:13] >>>>>>>>>> UpdateLegalEntity
