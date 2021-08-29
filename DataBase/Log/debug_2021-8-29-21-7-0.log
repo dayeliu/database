@@ -1,0 +1,50 @@
+[2021-08-29 21:07:00] >>>>>>>>>> UpdateDB
+[2021-08-29 21:07:00] Date:2021-8-29
+[2021-08-29 21:07:00] >>>>>>>>>> GetStocksList
+[2021-08-29 21:07:00] <<<<<<<<<< GetStocksList Done
+[2021-08-29 21:07:00]  ===> [0] 2442
+[2021-08-29 21:07:02] >>>>>>>>>> InitBonus
+[2021-08-29 21:07:02] <<<<<<<<<< InitBonus Done
+[2021-08-29 21:07:02] >>>>>>>>>> InitRevenueInfo
+[2021-08-29 21:07:02] >>>>>>>>>> InitRevenueInfo Done
+[2021-08-29 21:07:02] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-08-29 21:07:02] [2442] 110/08/27 Original Daily info added 
+[2021-08-29 21:07:02] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-08-29 21:07:02] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-08-29 21:07:02] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-08-29 21:07:02] <<<<<<<<<< UpdateTechLine
+[2021-08-29 21:07:02] <<<<<<<<<< UpdateTechLine Done
+[2021-08-29 21:07:02] >>>>>>>>>> UpdateLegalEntity
+[2021-08-29 21:07:02] [2442] Legal entity info added 
+[2021-08-29 21:07:02] >>>>>>>>>> UpdateLegalEntity Done
+[2021-08-29 21:07:02]  ===> [1] 2489
+[2021-08-29 21:07:04] >>>>>>>>>> InitBonus
+[2021-08-29 21:07:04] <<<<<<<<<< InitBonus Done
+[2021-08-29 21:07:04] >>>>>>>>>> InitRevenueInfo
+[2021-08-29 21:07:04] >>>>>>>>>> InitRevenueInfo Done
+[2021-08-29 21:07:04] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-08-29 21:07:04] [2489] 110/08/27 Original Daily info added 
+[2021-08-29 21:07:04] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-08-29 21:07:04] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-08-29 21:07:04] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-08-29 21:07:04] <<<<<<<<<< UpdateTechLine
+[2021-08-29 21:07:04] <<<<<<<<<< UpdateTechLine Done
+[2021-08-29 21:07:04] >>>>>>>>>> UpdateLegalEntity
+[2021-08-29 21:07:04] [2489] Legal entity info added 
+[2021-08-29 21:07:04] >>>>>>>>>> UpdateLegalEntity Done
+[2021-08-29 21:07:04]  ===> [2] 3049
+[2021-08-29 21:07:06] >>>>>>>>>> InitBonus
+[2021-08-29 21:07:06] <<<<<<<<<< InitBonus Done
+[2021-08-29 21:07:06] >>>>>>>>>> InitRevenueInfo
+[2021-08-29 21:07:06] >>>>>>>>>> InitRevenueInfo Done
+[2021-08-29 21:07:06] >>>>>>>>>> UpdateDailyStockInfo_Original
+[2021-08-29 21:07:07] [3049] 110/08/27 Original Daily info added 
+[2021-08-29 21:07:07] >>>>>>>>>> HandleDailyStockInfoOriginal
+[2021-08-29 21:07:07] <<<<<<<<<< HandleDailyStockInfoOriginal Done
+[2021-08-29 21:07:07] <<<<<<<<<< UpdateDailyStockInfo_Original Done
+[2021-08-29 21:07:07] <<<<<<<<<< UpdateTechLine
+[2021-08-29 21:07:07] <<<<<<<<<< UpdateTechLine Done
+[2021-08-29 21:07:07] >>>>>>>>>> UpdateLegalEntity
+[2021-08-29 21:07:07] [3049] Legal entity info added 
+[2021-08-29 21:07:07] >>>>>>>>>> UpdateLegalEntity Done
+[2021-08-29 21:07:07]  ===> [3] 6456
